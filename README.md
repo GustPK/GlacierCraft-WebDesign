@@ -5,7 +5,6 @@ GlacierCraft เป็นโปรเจกต์การออกแบบเ�
 
 
 ## 🔗 Links  
-
-- **Behance Portfolio**: [View on Behance](https://www.behance.net/gallery/212663401/GlacierCraft)  
 - **Figma Prototype**: [Interactive Prototype](https://www.figma.com/proto/2Ox1ojgxEOxX5S6HfcQqNE/GlacierCraft?node-id=0-1&t=FCNtSq7WQei5FC20-1)  
+- **Behance Portfolio**: [View on Behance](https://www.behance.net/gallery/212663401/GlacierCraft)  
 - **Figma Design Files**: [View Designs](https://www.figma.com/design/2Ox1ojgxEOxX5S6HfcQqNE/GlacierCraft?node-id=0-1&t=FCNtSq7WQei5FC20-1)  
